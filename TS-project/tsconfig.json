@@ -1,0 +1,13 @@
+{
+  "files": [
+    "decorators.ts",
+    "imports.ts", 
+    "exports/animal.ts",
+    "exports/dog.ts",
+    "namespace.ts"
+  ],
+  "compilerOptions": {
+    "target": "es5",
+    "experimentalDecorators": true
+  }
+}
